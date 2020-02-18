@@ -1,4 +1,4 @@
-# Python-
+# Python Crash
 Python编程：从入门到实践
 
 这本书的所有源代码，所需文件以及pdf均已上传
